@@ -1,6 +1,3 @@
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-
-
 === bespoke Theme Thomas Johnson ===
 
 Contributors: automattic
