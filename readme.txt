@@ -26,12 +26,9 @@ Description
 
 = Does this theme support any plugins? =
 
-bespoke includes support for WooCommerce and for Infinite Scroll in Jetpack.
+bespoke includes support for WooCommerce and for Infinite Scroll in Jetpack and uses Lottie files for animation sequences.
 
-== Changelog ==
-
-= 1.0 - May 12 2015 =
-* Initial release
+A Lottie is a JSON-based animation file format that lets you ship animations on any platform as easily as shipping static assets. They are small files that work on any device and can scale up or down without pixelation.
 
 **Videos**
 https://streamable.com/r6gmg0
