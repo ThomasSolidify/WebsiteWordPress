@@ -31,7 +31,7 @@ bespoke includes support for WooCommerce and for Infinite Scroll in Jetpack and 
 A Lottie is a JSON-based animation file format that lets you ship animations on any platform as easily as shipping static assets. They are small files that work on any device and can scale up or down without pixelation.
 
 **Videos**
-https://streamable.com/r6gmg0
+https://streamable.com/8n7wyq
 
 https://streamable.com/t4ufct
 
