@@ -35,10 +35,11 @@ bespoke includes support for WooCommerce and for Infinite Scroll in Jetpack.
 
 **Videos**
 
-If you want to see the website locally hosted.
-<a href="https://www.google.com/" target="_blank">Google</a>
+https://streamable.com/t4ufct
 
+https://streamable.com/r6gmg0
 
-[here](https://streamable.com/r6gmg0)
+**react website** unrelated.
 
-https://streamable.com/r6gmg0 Click [here](https://streamable.com/t4ufct) to view page 2.
+https://streamable.com/auh9fq
+
