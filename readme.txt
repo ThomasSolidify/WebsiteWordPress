@@ -34,10 +34,9 @@ bespoke includes support for WooCommerce and for Infinite Scroll in Jetpack.
 * Initial release
 
 **Videos**
+https://streamable.com/r6gmg0
 
 https://streamable.com/t4ufct
-
-https://streamable.com/r6gmg0
 
 **react website** unrelated.
 
